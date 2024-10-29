@@ -4,6 +4,6 @@
 
 ``` javascript
 var my_training = "BTS CIEL IR";
--[] Start Github pages
--[] Search his repositorie
--[] Edit to match with the request
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
